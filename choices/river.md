@@ -11,6 +11,6 @@ Or… you could turn around and head back into the forest, where the trees close
 > What do you choose? 
 
 
-- 🌲[ Return to the beginning of the forest] (./forest.md)
- - 🚣[ take the rowboat down the river] (./boat.md ) 
--  🌉[ Cross the rickety wooden bridge] (./bridge.md)
+- 🌲 [Return to the beginning of the forest](./forest.md)
+ - 🚣 [take the rowboat down the river](./boat.md ) 
+-  🌉 [Cross the rickety wooden bridge](./bridge.md)
