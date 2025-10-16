@@ -4,7 +4,10 @@ The cave mouth yawns before you, damp and shadowed, as if the forest itself has 
 
 A cold breeze sweeps out from the darkness, carrying a low rumble that vibrates in your chest. Whatever lies within is awake… and aware.  
 
-> “I hope whatever’s in here isn’t angry,” you mutter under your breath, stepping cautiously into the shadows.
+> “I hope whatever’s in here isn’t angry,” you mutter under your breath, stepping cautiously.
+> "Which path shall I take now?" you ask yourself.
+
+Now what happens?
 
 - 👹 [Face the troll in the cave](./troll.md)  
 - 🌲 [Flee back to the forest](./forest.md)
