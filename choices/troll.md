@@ -13,6 +13,7 @@ You can feel the vibration in your chest as it takes a lumbering step forward.
 Despite the terror clawing at your spine, a spark of courage—or foolishness—pushes you to hold your ground.  
 
 > “I need to stay calm… maybe I can outsmart it,” you think, eyes darting toward the narrow tunnels and the faint sound of rushing water nearby.
+> Where should you go?
 
 - 🌊 [Escape toward the river](./river.md)  
 - 🕳️ [Retreat back into the cave](./cave.md)
