@@ -12,4 +12,4 @@ Soon, you spot movement ahead—a fox with golden eyes seems to beckon you towar
 
 - 🦊 [Follow the mysterious fox](./fox.md)  
 - 🕳️ [Enter the dark cave](./cave.md)  
-- 🔙 [Return to the forest edge](./start-here.md)
+- 🔙 [Return to the forest edge](./_start-here.md)
