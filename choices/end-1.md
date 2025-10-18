@@ -1,4 +1,4 @@
-# Rowboat rid back
+# Rowboat ride back
 
 You have turned around not willing to face the troll.
 
