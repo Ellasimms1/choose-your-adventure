@@ -12,5 +12,5 @@ You could reason wirh the troll... or turn the boat around and head back before 
 
 > What do you do? 
 
-- 🚣[Start paddling back ](./end-1)
+- 🚣[Start paddling back ](./end-1.md)
 - 🧌[Reason wirh the troll](./troll.md)
