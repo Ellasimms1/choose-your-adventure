@@ -16,5 +16,5 @@ You take out the key.
 
 > What will you choose?
 
-- 🗝️[Use the key to open the door](./end-2)
+- 🗝️[Use the key to open the door](./end-2.md)
 - 🌊[go back through the river because this door dose not seem trustworthy](./river.md)
